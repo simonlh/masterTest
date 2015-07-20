@@ -1,0 +1,100 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{none}{none}
+    \entry{Sharp2007Interaction}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=3c13b944e2b68ee928fb824b303ed11f}{Sharp}{S\bibinitperiod}{Helen}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=b63a3a4f037d8449395335bf9703194a}{Rogers}{R\bibinitperiod}{Yvonne}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=9a63e77ace08be741775097b6dff877d}{Preece}{P\bibinitperiod}{Jenny}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=3c13b944e2b68ee928fb824b303ed11f}{Sharp}{S\bibinitperiod}{Helen}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=b63a3a4f037d8449395335bf9703194a}{Rogers}{R\bibinitperiod}{Yvonne}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=9a63e77ace08be741775097b6dff877d}{Preece}{P\bibinitperiod}{Jenny}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dc27907642cb7b90ed6d5a29685371fe}
+      \strng{fullhash}{cc420d26412285e18c3d30f4c09a126d}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Interaction design: beyond human-computer interaction}
+      \field{journaltitle}{2002}
+      \field{title}{Interaction design: beyond human-computer interaction}
+      \field{year}{2007}
+    \endentry
+    \entry{Kvale1983Qualitative}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=575451520e6fa58cf8a17a661d2fe18b}{Kvale}{K\bibinitperiod}{Steinar}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=575451520e6fa58cf8a17a661d2fe18b}{Kvale}{K\bibinitperiod}{Steinar}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{575451520e6fa58cf8a17a661d2fe18b}
+      \strng{fullhash}{575451520e6fa58cf8a17a661d2fe18b}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The qualitative research interview: A phenomenological and a hermeneutical mode of understanding.}
+      \field{journaltitle}{Journal of phenomenological psychology}
+      \field{title}{The qualitative research interview: A phenomenological and a hermeneutical mode of understanding.}
+      \field{year}{1983}
+    \endentry
+    \entry{Kvale2006Dominance}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=575451520e6fa58cf8a17a661d2fe18b}{Kvale}{K\bibinitperiod}{Steinar}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=575451520e6fa58cf8a17a661d2fe18b}{Kvale}{K\bibinitperiod}{Steinar}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{575451520e6fa58cf8a17a661d2fe18b}
+      \strng{fullhash}{575451520e6fa58cf8a17a661d2fe18b}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Dominance through interviews and dialogues}
+      \field{journaltitle}{Qualitative inquiry}
+      \field{number}{3}
+      \field{title}{Dominance through interviews and dialogues}
+      \field{volume}{12}
+      \field{year}{2006}
+      \field{pages}{480\bibrangedash 500}
+    \endentry
+    \entry{Kvale2009Interviews}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=575451520e6fa58cf8a17a661d2fe18b}{Kvale}{K\bibinitperiod}{Steinar}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fc817b3ea488ecf3e3cd7c5015c23769}{Brinkmann}{B\bibinitperiod}{Svend}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=575451520e6fa58cf8a17a661d2fe18b}{Kvale}{K\bibinitperiod}{Steinar}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fc817b3ea488ecf3e3cd7c5015c23769}{Brinkmann}{B\bibinitperiod}{Svend}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Sage}%
+      }
+      \strng{namehash}{416d323a8c9b304e230d1104de3fc7fc}
+      \strng{fullhash}{416d323a8c9b304e230d1104de3fc7fc}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Interviews: Learning the craft of qualitative research interviewing}
+      \field{title}{Interviews: Learning the craft of qualitative research interviewing}
+      \field{year}{2009}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

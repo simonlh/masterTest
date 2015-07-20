@@ -1,0 +1,74 @@
+\documentclass[11pt,UKenglish, a4paper]{article}
+\usepackage[utf8]{inputenc}
+%--fonts--
+\usepackage[T1]{fontenc}
+\usepackage[bitstream-charter]{mathdesign}
+
+%--packages--
+\usepackage[UKenglish]{babel}
+\usepackage{csquotes,textcomp,varioref}
+
+\usepackage{graphicx}
+%--color--
+\usepackage[dvipsnames]{xcolor}
+
+%Setter inn pdfer
+\usepackage[final]{pdfpages}
+
+%-linespace--
+\linespread{1.3}
+
+%-Mer advansert liste--
+\usepackage{enumitem}
+
+%--hyperlinks-- include 
+\usepackage[colorlinks=false, pdfborder={0 0 0}]{hyperref}
+
+%--include subfiles-- 
+\usepackage{subfiles}
+
+%--fullpage--
+%\usepackage{fullpage}
+
+%--Uio-Front-Page--
+%removed until it works \usepackage{ifikompendiumforside}
+
+%--bibliography- -sortlocale=nb_No,
+\usepackage[backend=biber, sortcites, defernumbers, style=numeric-comp, maxnames=2, natbib=true, backref, sorting=none, url=false]{biblatex}
+%fjernet ifra style=authoryear-icomp
+\addbibresource[datatype=bibtex]{Remote.bib}
+%\addbibresource[datatype=bibtex]{Kilder.bib}
+
+%farger jeg skal ha med
+\definecolor{myY}{RGB}{241, 196, 15}
+\definecolor{myB}{RGB}{52, 152, 219}
+\definecolor{myG}{RGB}{46, 204, 113}
+\definecolor{myLy}{RGB}{149, 165, 166}
+\definecolor{myR}{rgb}{231, 76, 60}
+
+%--Author and Title--
+\author{Simon Lysne Hyenes}
+\title{Participatory Sketching}
+
+%--Latex Optimalization--
+\tolerance = 5000
+\hbadness = \tolerance
+\pretolerance = 2000
+
+%--Author and Title--
+\author{Simon Lysne Hyenes}
+\title{Participatory Sketching}
+
+%--Starter--
+\begin{document}
+\section{Participatory Sketching}
+Stolterman refers to Kolko, Buxton and Morridge \cite[p.61]{Stolterman????Nature} as examples of designers that consider sketching at the core of the design practice. Participatory sketching is one of the most open-ended forms of ``making'' techniques within participatory design. The core idea is that the participants sketch a prototype, solution, future vision or idea. At the most basic level it raises the engagement of the participants from observing to making. Once they are making this allows for several benefical things to take place. They become invested in an idea relating to your project. They articulate by their own means abstract ideas, side-stepping issues of definition power (sitat?) of technical language and jargon. If properly invested participants may engage freely and take greater care to describe and formulate their ideas to the group. If allowed to discuss their drawings the participants often draw upon each others ideas and elaborate their ideas even further.
+
+There are many forms of sketching, the method I discuss here are simply participants drawing with ordinary drawing utensil such as pen, pencil on paper. The technique can be refitted to different purposes such as storyboarding or interface design. 
+
+Mitchell and Nørgaard point to Buxtons use of the term sketching. Here the material and results are less important than their ability to be ``rapidly made, provoke new questions, and provide the possibility to explore design assumptions quickly and at a low cost''\cite[p.2]{Mitchell2011Using}. Sketching is viewed as a tool for exploring, generating and evaluating ideas. Mitchell and Nørgaard point to two benefits and one weaknesses for participatory design. First sketches serves as entrypoints to discussion about design matters. Secondly they allow for a new and different way of thinking for participants. Their main weakness is in the raised need for facilitation. Other weaknesses depend upon the group dynamics and facilitator skills. Such as lacking will or ability to draw, in such circumstance a facilitator may assist or pair the participant with a more comfortable participant.
+
+Depending upon the fidelity and clarity of the project the drawings themselves may not be regarded as specifically useful for the continued project. Instead the main benefit is their combined ability to generate useful and engaging participation during and beyond the end of the exercise.
+
+\printbibliography
+\end{document}

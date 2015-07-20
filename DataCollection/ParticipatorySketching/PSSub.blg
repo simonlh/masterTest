@@ -1,0 +1,15 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'PSSub.blg'
+[53] biber-darwin:277> INFO - === Fri Jan 16, 2015, 14:13:29
+[54] Biber.pm:333> INFO - Reading 'PSSub.bcf'
+[125] Biber.pm:635> INFO - Found 2 citekeys in bib section 0
+[155] Biber.pm:3051> INFO - Processing section 0
+[176] Biber.pm:3189> INFO - Looking for bibtex format file 'Remote.bib' for section 0
+[178] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[178] bibtex.pm:864> INFO - Found BibTeX data source 'Remote.bib'
+[217] UCollate.pm:66> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[217] UCollate.pm:66> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[217] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-GB'
+[217] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-GB'
+[222] bbl.pm:517> INFO - Writing 'PSSub.bbl' with encoding 'UTF-8'
+[222] bbl.pm:606> INFO - Output to PSSub.bbl

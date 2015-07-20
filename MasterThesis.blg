@@ -1,0 +1,15 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is 'MasterThesis.blg'
+[43] biber-darwin:276> INFO - === Mon Jul 20, 2015, 08:30:42
+[44] Biber.pm:333> INFO - Reading 'MasterThesis.bcf'
+[144] Biber.pm:645> INFO - Found 15 citekeys in bib section 0
+[163] Biber.pm:2977> INFO - Processing section 0
+[180] Biber.pm:3115> INFO - Looking for bibtex format file 'Remote.bib' for section 0
+[182] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[184] bibtex.pm:895> INFO - Found BibTeX data source 'Remote.bib'
+[368] UCollate.pm:66> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[368] UCollate.pm:66> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[368] Biber.pm:2854> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-UK'
+[368] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-UK'
+[386] bbl.pm:505> INFO - Writing 'MasterThesis.bbl' with encoding 'UTF-8'
+[388] bbl.pm:596> INFO - Output to MasterThesis.bbl

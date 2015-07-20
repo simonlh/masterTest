@@ -1,0 +1,5 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is 'untitled.blg'
+[71] biber-darwin:275> INFO - === Thu Dec  4, 2014, 12:42:10
+[71] Biber.pm:333> INFO - Reading 'untitled.bcf'
+[141] Utils.pm:169> WARN - No data sources defined!

@@ -1,0 +1,49 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{none}{none}
+    \entry{Sanders2010Framework}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=f1c03386b96126d4d037b7dd835ed325}{Sanders}{S\bibinitperiod}{Elizabeth\bibnamedelima B-N}{E\bibinitperiod\bibinitdelim B\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=cbd58a13578060286f98f0e41a3318d2}{Brandt}{B\bibinitperiod}{Eva}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=30984356dd9e6a3eaf61bbbb77cea8fb}{Binder}{B\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=f1c03386b96126d4d037b7dd835ed325}{Sanders}{S\bibinitperiod}{Elizabeth\bibnamedelima B-N}{E\bibinitperiod\bibinitdelim B\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=cbd58a13578060286f98f0e41a3318d2}{Brandt}{B\bibinitperiod}{Eva}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=30984356dd9e6a3eaf61bbbb77cea8fb}{Binder}{B\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{9962339415b365549aab8ee33d8000fd}
+      \strng{fullhash}{98ee2c079c73940bbac780bad6bdde88}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{A framework for organizing the tools and techniques of participatory design}
+      \field{booktitle}{Proceedings of the 11th biennial participatory design conference}
+      \field{title}{A framework for organizing the tools and techniques of participatory design}
+      \field{year}{2010}
+      \field{pages}{195\bibrangedash 198}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

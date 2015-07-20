@@ -1,0 +1,194 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{none}{none}
+    \entry{Stolterman????Nature}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2518bc78bb3553f1eb83cc3e1f497259}{Stolterman}{S\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2518bc78bb3553f1eb83cc3e1f497259}{Stolterman}{S\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2518bc78bb3553f1eb83cc3e1f497259}
+      \strng{fullhash}{2518bc78bb3553f1eb83cc3e1f497259}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The Nature of Design Practice and Implications for Interaction Design Research}
+      \field{journaltitle}{International Journal of Dsign}
+      \field{title}{The Nature of Design Practice and Implications for Interaction Design Research}
+      \verb{url}
+      \verb http://www.ijdesign.org/ojs/index.php/IJDesign/article/view/240
+      \endverb
+    \endentry
+    \entry{Fallman2003DesignOriented}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=263323e38c29e48a1ee3b0216138b79e}{Fallman}{F\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=263323e38c29e48a1ee3b0216138b79e}{Fallman}{F\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{263323e38c29e48a1ee3b0216138b79e}
+      \strng{fullhash}{263323e38c29e48a1ee3b0216138b79e}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Design-oriented human-computer interaction}
+      \field{booktitle}{Proceedings of the SIGCHI conference on Human factors in computing systems}
+      \field{title}{Design-oriented human-computer interaction}
+      \field{year}{2003}
+      \field{pages}{225\bibrangedash 232}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=642652
+      \endverb
+    \endentry
+    \entry{Wang2012User}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{hash=f082faa08b6f5ab1aed003e44fcbbd35}{Wang}{W\bibinitperiod}{Jinyi}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=da7447289440161c0cd4ef63313dee42}{Ramberg}{R\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=ed49e1adcb67670eaec18383845aae63}{Kuoppala}{K\bibinitperiod}{Hannu}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=f082faa08b6f5ab1aed003e44fcbbd35}{Wang}{W\bibinitperiod}{Jinyi}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=da7447289440161c0cd4ef63313dee42}{Ramberg}{R\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=ed49e1adcb67670eaec18383845aae63}{Kuoppala}{K\bibinitperiod}{Hannu}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c8884d51cf08eba3899269e1113974fc}
+      \strng{fullhash}{2d4fb0ca0edfd56760627e278cfb8bb4}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{User Participatory Sketching}
+      \field{booktitle}{Proc. of APCHI 2012: The 10th Asia Pacific Conference on Computer Human Interaction}
+      \field{shorttitle}{User Participatory Sketching}
+      \field{title}{User Participatory Sketching: A Complementary Approach to Gather User Requirements}
+      \field{volume}{2}
+      \field{year}{2012}
+      \field{pages}{481\bibrangedash 490}
+      \verb{url}
+      \verb http://mobile-life.org/sites/default/files/User%20Participatory%20Sketching-%20A%20Complementary%20Approach%20to%20Gather%20User%20Requirements.pdf
+      \endverb
+    \endentry
+    \entry{Tholander2008Where}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=10e19b9799608d3af88595247ca68f93}{Tholander}{T\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=446cad6de16a9064ec78bfc9cd978e16}{Karlgren}{K\bibinitperiod}{Klas}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=da7447289440161c0cd4ef63313dee42}{Ramberg}{R\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=da07a589d9d9c0b91efc7d78f68f1766}{Sökjer}{S\bibinitperiod}{Per}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=10e19b9799608d3af88595247ca68f93}{Tholander}{T\bibinitperiod}{Jakob}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=446cad6de16a9064ec78bfc9cd978e16}{Karlgren}{K\bibinitperiod}{Klas}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=da7447289440161c0cd4ef63313dee42}{Ramberg}{R\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=da07a589d9d9c0b91efc7d78f68f1766}{Sökjer}{S\bibinitperiod}{Per}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{6e2c5b68e1e99f665c823dc2a31399a6}
+      \strng{fullhash}{f10cd6dc610d651484e6f2f6341dcb11}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Where All the Interaction is}
+      \field{booktitle}{Proceedings of the 7th ACM Conference on Designing Interactive Systems}
+      \field{isbn}{978-1-60558-002-9}
+      \field{series}{DIS '08}
+      \field{shorttitle}{Where All the Interaction is}
+      \field{title}{Where All the Interaction is: Sketching in Interaction Design As an Embodied Practice}
+      \field{year}{2008}
+      \field{pages}{445\bibrangedash 454}
+      \verb{doi}
+      \verb 10.1145/1394445.1394493
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/1394445.1394493
+      \endverb
+    \endentry
+    \entry{Bannon2012Design}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=2d2bcf3d0bae55c0c1ebbc5315ed7a3e}{Bannon}{B\bibinitperiod}{Liam}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d1dde2ae3017a7cdca493457c7d3bcea}{Ehn}{E\bibinitperiod}{Pelle}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=2d2bcf3d0bae55c0c1ebbc5315ed7a3e}{Bannon}{B\bibinitperiod}{Liam}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=d1dde2ae3017a7cdca493457c7d3bcea}{Ehn}{E\bibinitperiod}{Pelle}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7ab958f4cca4563532de65df191a4fb9}
+      \strng{fullhash}{7ab958f4cca4563532de65df191a4fb9}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Design matters in participatory design}
+      \field{journaltitle}{Routledge International Handbook of Participatory Design}
+      \field{title}{Design matters in participatory design}
+      \field{year}{2012}
+      \field{pages}{37}
+      \verb{url}
+      \verb http://www.google.com/books?hl=en%5C&lr=%5C&id=SnO5JDzp3t4C%5C&oi=fnd%5C&pg=PA37%5C&dq=bannon+ehn%5C&ots=9DatLRjsuA%5C&sig=WO5OP1cXdp4GQZDUxBNo9GvqJCo
+      \endverb
+    \endentry
+    \entry{Mitchell2011Using}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=0c34914221aae2929eac6a6df34f061b}{Mitchell}{M\bibinitperiod}{Robb}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f0f67ed347da8f09558c9cd3a109498b}{Norgaard}{N\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0c34914221aae2929eac6a6df34f061b}{Mitchell}{M\bibinitperiod}{Robb}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f0f67ed347da8f09558c9cd3a109498b}{Norgaard}{N\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0041443236a4b4a48cdbb585145ed0c1}
+      \strng{fullhash}{0041443236a4b4a48cdbb585145ed0c1}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Using DIY cartoon storyboards, live sketching and co-sketching to involve young and older users in participatory design}
+      \field{booktitle}{Proc. of World Conference on Design Research IASDR}
+      \field{title}{Using DIY cartoon storyboards, live sketching and co-sketching to involve young and older users in participatory design}
+      \field{year}{2011}
+      \field{pages}{1\bibrangedash 8}
+    \endentry
+    \entry{Houde1997What}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dcc9db054b5582c3f6461270ce7082f2}{Houde}{H\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=78e35dc20b8c19a85f9a2dd91eb668fe}{Hill}{H\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dcc9db054b5582c3f6461270ce7082f2}{Houde}{H\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=78e35dc20b8c19a85f9a2dd91eb668fe}{Hill}{H\bibinitperiod}{Charles}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1f0803c633e16b5a5418891703e6f997}
+      \strng{fullhash}{1f0803c633e16b5a5418891703e6f997}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{What do prototypes prototype}
+      \field{journaltitle}{Handbook of human-computer interaction}
+      \field{title}{What do prototypes prototype}
+      \field{volume}{2}
+      \field{year}{1997}
+      \field{pages}{367\bibrangedash 381}
+      \verb{url}
+      \verb http://www.google.com/books?hl=en%5C&lr=%5C&id=WuQbERgXR10C%5C&oi=fnd%5C&pg=PA367%5C&dq=houde+hill%5C&ots=--wAlFTCkS%5C&sig=Kqz9qs1oUQvYcbuwIHpzpSTfe7A
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

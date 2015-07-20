@@ -1,0 +1,66 @@
+\documentclass[11pt,UKenglish, a4paper]{article}
+\usepackage[utf8]{inputenc}
+%--fonts--
+\usepackage[T1]{fontenc}
+\usepackage[bitstream-charter]{mathdesign}
+
+%--packages--
+\usepackage[UKenglish]{babel}
+\usepackage{csquotes,textcomp,varioref}
+
+%--Sitater i starten av dokumentet--
+\usepackage{epigraph}
+
+%--Notater i margen og geometri for størrelse--
+\usepackage{geometry}
+\usepackage{marginnote}
+
+\usepackage{graphicx}
+%--color--
+\usepackage[dvipsnames]{xcolor}
+
+%Setter inn pdfer
+\usepackage[final]{pdfpages}
+
+%-linespace--
+\linespread{1.3}
+
+%-Mer advansert liste--
+\usepackage{enumitem}
+
+%--hyperlinks-- include 
+\usepackage[colorlinks=false, pdfborder={0 0 0}]{hyperref}
+
+%--include subfiles-- 
+\usepackage{subfiles}
+
+%--fullpage--
+%\usepackage{fullpage}
+
+%--Uio-Front-Page--
+%removed until it works \usepackage{ifikompendiumforside}
+
+%--bibliography- -sortlocale=nb_No,
+\usepackage[backend=biber, sortcites, defernumbers, style=numeric-comp, maxnames=2, natbib=true, backref, sorting=none, url=false]{biblatex}
+%fjernet ifra style=authoryear-icomp
+\addbibresource[datatype=bibtex]{Remote.bib}
+
+%farger jeg skal ha med
+\definecolor{myY}{RGB}{241, 196, 15}
+\definecolor{myB}{RGB}{52, 152, 219}
+\definecolor{myG}{RGB}{46, 204, 113}
+\definecolor{myLy}{RGB}{149, 165, 166}
+\definecolor{myR}{rgb}{231, 76, 60}
+
+%--Author and Title--
+\author{Simon Lysne Hyenes}
+\title{Time}
+
+%--Latex Optimalization--
+\tolerance = 5000
+\hbadness = \tolerance
+\pretolerance = 2000
+\begin{document}
+noe
+
+\end{document}

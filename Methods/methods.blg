@@ -1,0 +1,15 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'methods.blg'
+[58] biber-darwin:277> INFO - === Fri Jan 16, 2015, 13:14:10
+[58] Biber.pm:333> INFO - Reading 'methods.bcf'
+[131] Biber.pm:635> INFO - Found 1 citekeys in bib section 0
+[160] Biber.pm:3051> INFO - Processing section 0
+[181] Biber.pm:3189> INFO - Looking for bibtex format file 'Remote.bib' for section 0
+[183] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[184] bibtex.pm:864> INFO - Found BibTeX data source 'Remote.bib'
+[208] UCollate.pm:66> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[208] UCollate.pm:66> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[208] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-GB'
+[208] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-GB'
+[212] bbl.pm:517> INFO - Writing 'methods.bbl' with encoding 'UTF-8'
+[212] bbl.pm:606> INFO - Output to methods.bbl

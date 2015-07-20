@@ -1,0 +1,344 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{none}{none}
+    \entry{Simonsen2012Routledge}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=18e610c0f70b6a00a242f8a11212ff86}{Simonsen}{S\bibinitperiod}{Jesper}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a17958f9022d3494ef562c9398623451}{Robertson}{R\bibinitperiod}{Toni}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=18e610c0f70b6a00a242f8a11212ff86}{Simonsen}{S\bibinitperiod}{Jesper}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a17958f9022d3494ef562c9398623451}{Robertson}{R\bibinitperiod}{Toni}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{0cb24dcc9390fb0657ff503b8a47611d}
+      \strng{fullhash}{0cb24dcc9390fb0657ff503b8a47611d}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Routledge international handbook of participatory design}
+      \field{title}{Routledge international handbook of participatory design}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.google.com/books?hl=en%5C&lr=%5C&id=SnO5JDzp3t4C%5C&oi=fnd%5C&pg=PP2%5C&dq=participatory+design+toni+robertson+ina+wagner%5C&ots=9DatLQrust%5C&sig=kifHEbFr8s9Srppac0jqUx2783o
+      \endverb
+    \endentry
+    \entry{Hagen2010Social}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=3c4ee4ffbd8e1f4ba70c7cc975fabb4c}{Hagen}{H\bibinitperiod}{Penny}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=a17958f9022d3494ef562c9398623451}{Robertson}{R\bibinitperiod}{Toni}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3c4ee4ffbd8e1f4ba70c7cc975fabb4c}{Hagen}{H\bibinitperiod}{Penny}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=a17958f9022d3494ef562c9398623451}{Robertson}{R\bibinitperiod}{Toni}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{74b2ebf3016da644c94cb55a22ab4507}
+      \strng{fullhash}{74b2ebf3016da644c94cb55a22ab4507}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Social technologies}
+      \field{booktitle}{Proceedings of the 11th Biennial Participatory Design Conference}
+      \field{shorttitle}{Social technologies}
+      \field{title}{Social technologies: challenges and opportunities for participation}
+      \field{year}{2010}
+      \field{pages}{31\bibrangedash 40}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1900447
+      \endverb
+    \endentry
+    \entry{Robertson2006Ethical}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=a17958f9022d3494ef562c9398623451}{Robertson}{R\bibinitperiod}{Toni}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a17958f9022d3494ef562c9398623451}{Robertson}{R\bibinitperiod}{Toni}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a17958f9022d3494ef562c9398623451}
+      \strng{fullhash}{a17958f9022d3494ef562c9398623451}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Ethical Issues in Interaction Design}
+      \field{issn}{1388-1957}
+      \field{journaltitle}{Ethics and Inf. Technol.}
+      \field{number}{2}
+      \field{title}{Ethical Issues in Interaction Design}
+      \field{volume}{8}
+      \field{year}{2006}
+      \field{pages}{49\bibrangedash 59}
+      \verb{doi}
+      \verb 10.1007/s10676-005-8308-3
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1007/s10676-005-8308-3
+      \endverb
+    \endentry
+    \entry{Kensing1998Participatory}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dcd0e7d3f53fb38455be48df2edb880b}{Kensing}{K\bibinitperiod}{Finn}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=9b53decf9f91bbed018291a5638fb8cd}{Blomberg}{B\bibinitperiod}{Jeanette}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dcd0e7d3f53fb38455be48df2edb880b}{Kensing}{K\bibinitperiod}{Finn}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=9b53decf9f91bbed018291a5638fb8cd}{Blomberg}{B\bibinitperiod}{Jeanette}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{76b2d4a87bb9005c4e6997064f214417}
+      \strng{fullhash}{76b2d4a87bb9005c4e6997064f214417}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Participatory design}
+      \field{journaltitle}{Computer Supported Cooperative Work (CSCW)}
+      \field{number}{3-4}
+      \field{shorttitle}{Participatory design}
+      \field{title}{Participatory design: Issues and concerns}
+      \field{volume}{7}
+      \field{year}{1998}
+      \field{pages}{167\bibrangedash 185}
+      \verb{url}
+      \verb http://link.springer.com/article/10.1023/A:1008689307411
+      \endverb
+    \endentry
+    \entry{Spinuzzi2005Methodology}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=2d351c665d241dd13601c07142cd82e4}{Spinuzzi}{S\bibinitperiod}{Clay}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2d351c665d241dd13601c07142cd82e4}{Spinuzzi}{S\bibinitperiod}{Clay}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2d351c665d241dd13601c07142cd82e4}
+      \strng{fullhash}{2d351c665d241dd13601c07142cd82e4}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{The methodology of participatory design}
+      \field{journaltitle}{Technical Communication}
+      \field{number}{2}
+      \field{title}{The methodology of participatory design}
+      \field{volume}{52}
+      \field{year}{2005}
+      \field{pages}{163\bibrangedash 174}
+      \verb{url}
+      \verb http://www.ingentaconnect.com/content/stc/tc/2005/00000052/00000002/art00005
+      \endverb
+    \endentry
+    \entry{Kensing2013Heritage}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=dcd0e7d3f53fb38455be48df2edb880b}{Kensing}{K\bibinitperiod}{Finn}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=f383b43a4a57f062c23c3c04c3991f19}{Greenbaum}{G\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dcd0e7d3f53fb38455be48df2edb880b}{Kensing}{K\bibinitperiod}{Finn}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=f383b43a4a57f062c23c3c04c3991f19}{Greenbaum}{G\bibinitperiod}{Joan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f95a911faaf8be22eae9f4e408bacc8d}
+      \strng{fullhash}{f95a911faaf8be22eae9f4e408bacc8d}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Heritage}
+      \field{journaltitle}{Routledge International Handbook of Participatory Design, Routledge}
+      \field{shorttitle}{Heritage}
+      \field{title}{Heritage: having a say}
+      \field{year}{2013}
+      \field{pages}{21\bibrangedash 36}
+    \endentry
+    \entry{Velden2014RePoliticising}{inproceedings}{}
+      \name{labelname}{1}{}{%
+        {{hash=628c642f0845590fa349db4d49ebdc52}{Van\bibnamedelimb der\bibnamedelima Velden}{V\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim V\bibinitperiod}{Maja}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=628c642f0845590fa349db4d49ebdc52}{Van\bibnamedelimb der\bibnamedelima Velden}{V\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim V\bibinitperiod}{Maja}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{628c642f0845590fa349db4d49ebdc52}
+      \strng{fullhash}{628c642f0845590fa349db4d49ebdc52}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Re-politicising participatory design: What can we learn from Fairphone}
+      \field{title}{Re-politicising participatory design: What can we learn from Fairphone}
+      \field{year}{2014}
+    \endentry
+    \entry{Loewgren2004Thoughtful}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=7a60319f5ae4a32a2d432328f67cf8d8}{Löwgren}{L\bibinitperiod}{Jonas}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2518bc78bb3553f1eb83cc3e1f497259}{Stolterman}{S\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=7a60319f5ae4a32a2d432328f67cf8d8}{Löwgren}{L\bibinitperiod}{Jonas}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=2518bc78bb3553f1eb83cc3e1f497259}{Stolterman}{S\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press Cambridge, MA}%
+      }
+      \strng{namehash}{aa25854bde51c6d02942700cff7f7c60}
+      \strng{fullhash}{aa25854bde51c6d02942700cff7f7c60}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Thoughtful interaction design}
+      \field{title}{Thoughtful interaction design}
+      \field{year}{2004}
+      \verb{url}
+      \verb https://wiki.sfu.ca/spring10/iat832g100/images/5/53/Lowgren-Stolterman-ch3-Thoughtful%5C_Interaction%5C_Design.pdf
+      \endverb
+    \endentry
+    \entry{Sanders2008CoCreation}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=11a13ad8884a24741ee8691cbf54b116}{Sanders}{S\bibinitperiod}{Elizabeth\bibnamedelima B.-N.}{E\bibinitperiod\bibinitdelim B\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=3131271a47ef9f89882b206a1f1f032a}{Stappers}{S\bibinitperiod}{Pieter\bibnamedelima Jan}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=11a13ad8884a24741ee8691cbf54b116}{Sanders}{S\bibinitperiod}{Elizabeth\bibnamedelima B.-N.}{E\bibinitperiod\bibinitdelim B\bibinithyphendelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=3131271a47ef9f89882b206a1f1f032a}{Stappers}{S\bibinitperiod}{Pieter\bibnamedelima Jan}{P\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{151f3ca9fe12391e851665c8f22d5202}
+      \strng{fullhash}{151f3ca9fe12391e851665c8f22d5202}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Co-creation and the new landscapes of design}
+      \field{journaltitle}{Co-design}
+      \field{number}{1}
+      \field{title}{Co-creation and the new landscapes of design}
+      \field{volume}{4}
+      \field{year}{2008}
+      \field{pages}{5\bibrangedash 18}
+      \verb{url}
+      \verb http://www.tandfonline.com/doi/abs/10.1080/15710880701875068
+      \endverb
+    \endentry
+    \entry{Bratteteig1997Design}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=0ea17bf62272eef3cf9f9834100bd19e}{Bratteteig}{B\bibinitperiod}{Tone}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=2518bc78bb3553f1eb83cc3e1f497259}{Stolterman}{S\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0ea17bf62272eef3cf9f9834100bd19e}{Bratteteig}{B\bibinitperiod}{Tone}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=2518bc78bb3553f1eb83cc3e1f497259}{Stolterman}{S\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{165e48729874cc004d5ce26534ac6d40}
+      \strng{fullhash}{165e48729874cc004d5ce26534ac6d40}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Design in groups-and all that jazz}
+      \field{journaltitle}{Computers and design in context}
+      \field{title}{Design in groups-and all that jazz}
+      \field{year}{1997}
+      \field{pages}{289\bibrangedash 316}
+      \verb{url}
+      \verb http://www.google.com/books?hl=en%5C&lr=%5C&id=-P2y2B%5C_oT1oC%5C&oi=fnd%5C&pg=PA289%5C&dq=stolterman+bratteteig%5C&ots=UbBKZCQDwH%5C&sig=freKAg5kRmXuOFKZJOK6RpmiSkU
+      \endverb
+    \endentry
+    \entry{Velden2014Participatory}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=3132b8c86834ee72c12b006abe15f304}{Velden}{V\bibinitperiod}{Maja\bibnamedelimb van\bibnamedelima der}{M\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}{}{}}%
+        {{hash=ee3eec58f872050ea0ebe6c31a9a4bd8}{Mörtberg}{M\bibinitperiod}{Christina}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=3132b8c86834ee72c12b006abe15f304}{Velden}{V\bibinitperiod}{Maja\bibnamedelimb van\bibnamedelima der}{M\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}{}{}}%
+        {{hash=ee3eec58f872050ea0ebe6c31a9a4bd8}{Mörtberg}{M\bibinitperiod}{Christina}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=717a2ef9e71e63a69df0d56b89be140a}{Hoven}{H\bibinitperiod}{Jeroen\bibnamedelimb van\bibnamedelima den}{J\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}{}{}}%
+        {{hash=17d9043d1e67f64861e4c594955782ef}{Vermaas}{V\bibinitperiod}{Pieter\bibnamedelima E.}{P\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=ba773c4c142cb05f9fdaea81c5aa7dbe}{Poel}{P\bibinitperiod}{Ibo\bibnamedelimb van\bibnamedelima de}{I\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{9a89eedacc2d4e127c796bc06562db50}
+      \strng{fullhash}{9a89eedacc2d4e127c796bc06562db50}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Participatory Design and Design for Values}
+      \field{booktitle}{Handbook of Ethics, Values, and Technological Design}
+      \field{isbn}{978-94-007-6994-6}
+      \field{title}{Participatory Design and Design for Values}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 22}
+      \verb{url}
+      \verb http://link.springer.com/referenceworkentry/10.1007/978-94-007-6994-6%5C_33-1
+      \endverb
+    \endentry
+    \entry{Feng2008Thinking}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=c1aaf238d4e32c865a8f24d0c1f7d915}{Feng}{F\bibinitperiod}{Patrick}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=135b81e29d9c14bb1865e1c78949d5cf}{Feenberg}{F\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=c1aaf238d4e32c865a8f24d0c1f7d915}{Feng}{F\bibinitperiod}{Patrick}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=135b81e29d9c14bb1865e1c78949d5cf}{Feenberg}{F\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{101b007f93e602b81b4bd981b99d6a53}
+      \strng{fullhash}{101b007f93e602b81b4bd981b99d6a53}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Thinking about Design}
+      \field{booktitle}{Philosophy and Design}
+      \field{isbn}{978-1-4020-6590-3, 978-1-4020-6591-0}
+      \field{shorttitle}{Thinking about Design}
+      \field{title}{Thinking about Design: Critical Theory of Technology and the Design Process}
+      \field{year}{2008}
+      \field{pages}{105\bibrangedash 118}
+      \verb{url}
+      \verb http://link.springer.com/chapter/10.1007/978-1-4020-6591-0%5C_8
+      \endverb
+    \endentry
+    \entry{Bratteteig2013Organising}{book}{}
+      \name{labelname}{5}{}{%
+        {{hash=0ea17bf62272eef3cf9f9834100bd19e}{Bratteteig}{B\bibinitperiod}{Tone}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=7a75137eaab2914a8a32703141e0c96a}{Bødker}{B\bibinitperiod}{Keld}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=07586b488c65e92f8a5696f9c2320660}{Dittrich}{D\bibinitperiod}{Yvonne}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=b6e9b0a4bd170a65e8fb21ad259392c6}{Mogensen}{M\bibinitperiod}{Preben\bibnamedelima Holst}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=18e610c0f70b6a00a242f8a11212ff86}{Simonsen}{S\bibinitperiod}{Jesper}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=0ea17bf62272eef3cf9f9834100bd19e}{Bratteteig}{B\bibinitperiod}{Tone}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=7a75137eaab2914a8a32703141e0c96a}{Bødker}{B\bibinitperiod}{Keld}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=07586b488c65e92f8a5696f9c2320660}{Dittrich}{D\bibinitperiod}{Yvonne}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=b6e9b0a4bd170a65e8fb21ad259392c6}{Mogensen}{M\bibinitperiod}{Preben\bibnamedelima Holst}{P\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=18e610c0f70b6a00a242f8a11212ff86}{Simonsen}{S\bibinitperiod}{Jesper}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge, New York}%
+      }
+      \strng{namehash}{eab0ffbef4fa6b56595c1c75265f2cfb}
+      \strng{fullhash}{93059590803bd0b88e561f6bc58e6495}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Organising principles and general guidelines for Participatory Design Projects}
+      \field{title}{Organising principles and general guidelines for Participatory Design Projects}
+      \field{year}{2013}
+      \verb{url}
+      \verb https://www.google.com/books?hl=no%5C&lr=%5C&id=SnO5JDzp3t4C%5C&oi=fnd%5C&pg=PA117%5C&dq=bratteteig+participatory+design%5C&ots=9DbtIRlusv%5C&sig=c%5C_J-he9oSbr0CEGNcbAC6QlnHk4
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

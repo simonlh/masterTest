@@ -1,0 +1,90 @@
+\documentclass[11pt,UKenglish, a4paper]{article}
+\usepackage[utf8]{inputenc}
+%--fonts--
+\usepackage[T1]{fontenc}
+\usepackage[bitstream-charter]{mathdesign}
+
+%--packages--
+\usepackage[UKenglish]{babel}
+\usepackage{csquotes,textcomp,varioref}
+
+\usepackage{graphicx}
+%--color--
+\usepackage[dvipsnames]{xcolor}
+
+%Setter inn pdfer
+\usepackage[final]{pdfpages}
+
+%-linespace--
+\linespread{1.3}
+
+%-Mer advansert liste--
+\usepackage{enumitem}
+
+%--hyperlinks-- include 
+\usepackage[colorlinks=false, pdfborder={0 0 0}]{hyperref}
+
+%--include subfiles-- 
+\usepackage{subfiles}
+
+%--fullpage--
+%\usepackage{fullpage}
+
+%--Uio-Front-Page--
+%removed until it works \usepackage{ifikompendiumforside}
+
+%--bibliography- -sortlocale=nb_No,
+\usepackage[backend=biber, sortcites, defernumbers, style=numeric-comp, maxnames=2, natbib=true, backref, sorting=none, url=false]{biblatex}
+%fjernet ifra style=authoryear-icomp
+\addbibresource[datatype=bibtex]{Remote.bib}
+%\addbibresource[datatype=bibtex]{Kilder.bib}
+
+%farger jeg skal ha med
+\definecolor{myY}{RGB}{241, 196, 15}
+\definecolor{myB}{RGB}{52, 152, 219}
+\definecolor{myG}{RGB}{46, 204, 113}
+\definecolor{myLy}{RGB}{149, 165, 166}
+\definecolor{myR}{rgb}{231, 76, 60}
+
+%--Author and Title--
+\author{Simon Lysne Hyenes}
+\title{Semi-Structured Interviews}
+
+%--Latex Optimalization--
+\tolerance = 5000
+\hbadness = \tolerance
+\pretolerance = 2000
+%--Starter--
+\begin{document}
+
+\section{Semi-Structured Interviews}
+Interviews are often used to engage participants in conversation and to find truthful meanings and opinions about the subjects at-hand. In qualititative interviews the goal is to explore a range of issues and allow the participants to express their opinions more in depth in contrast with structured interviews. Sharps, Rogers and Preece categorize interviews as open, structured and semi-structured. Where the open interview has no formal plan, the structured has a strict list of questions. The semi-structured has an interview guide but probes/expands on questions for a deeper understanding\cite[p.299]{Sharp2007Interaction}.
+
+Kvale's describes the semi-structured interview as an phenomenological mode of understanding. Here the purpose of the interview is in exploring the interviewee's ``life-world''\cite[p.174]{Kvale1983Qualitative} and allowing an exchange to find meaning about specific themes\cite[p.175]{Kvale1983Qualitative}. The interview is not a conversation but a one way dialogue with questions and answers. In the modern interview the subject is understood as a partner or an informant. The goal then is not to confront, debate or change the answers but rather to record relevant data.
+
+\subsection{Interview dynamics}
+Kvale problematizes the relationship between the interview subject and researcher, pointing to the asymmetrical power relations and related issues\cite[p.483]{Kvale2006Dominance}. To address such issues qualitative interviews depend upon a ethically sound understanding between the participants about the goals, purposes and future uses of the collected data. The asymmetry is related to the interviewers power and monopoly conducting and interpreting the conversation\cite[p.33]{Kvale2009Interviews}. The asymmetry can lead to the interview form being unintentionally manipulative, counter-productive and ultimately lead to breakdowns.
+
+\subsection{Interview heuristics}
+Kvale presents 12 aspects that can be used to guide qualitative interviews. Especially important ``specificity, sensitivty and deliberate naivetè''\cite[p.28]{Kvale2009Interviews}. Adapting a ``presuppositionlessness''\cite[p.31]{Kvale2006Dominance} allows the interviewer to both reflectively disregard assumptions and avoid steering the answers. 
+
+The interview has to be specific enough to adress the issues and themes at hand. For this to be possible the interviewee has to have a sensitivity to both the themes, topics and also the interview subject. This sensitivity means an ability to understand and investigate the ``life-world'' but also contain the focus to the themes. Secondly the investigative and interpersonal nature means neccessiatates an ability to understand the sign and verbal cues from interviewee. The interpersonal nature of the exchange contrast with the asymmetrical power relation. Kvale points to that the interpersonal relation is a strong point but requires reflexivity\cite[p.178]{Kvale1983Qualitative}.
+
+\subsection{Interview knowledge}
+There are many philosophical and epistemological issues when considering interview knowledge and it's value for research. 
+
+Based on postmodern, pragmatist and hermeneutic philosophy Kvale claims that interview knowledge has 7 key features:
+\begin{enumerate}[label=\bfseries\arabic*]
+\item{produced}
+\item{relational}
+\item{conversational}
+\item{contextual}
+\item{linguistic}
+\item{narrative}
+\item{pragmatic}
+\cite[p.53]{Kvale2009Interviews}
+\end{enumerate}
+The 7 features are intertwined and also describe subjects that interviews can provide knowledge about\cite[p.53]{Kvale2009Interviews}. Interview knowledge is qualititative and the knowledge production depends upon the philosphical and theoretical constructs used in all stages---especially the analysis. 
+
+\printbibliography
+\end{document}

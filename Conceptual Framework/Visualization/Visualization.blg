@@ -1,0 +1,15 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'Visualization.blg'
+[52] biber-darwin:277> INFO - === Thu Feb  5, 2015, 14:09:48
+[52] Biber.pm:333> INFO - Reading 'Visualization.bcf'
+[116] Biber.pm:635> INFO - Found 1 citekeys in bib section 0
+[145] Biber.pm:3051> INFO - Processing section 0
+[171] Biber.pm:3189> INFO - Looking for bibtex format file 'Remote.bib' for section 0
+[172] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[173] bibtex.pm:864> INFO - Found BibTeX data source 'Remote.bib'
+[203] UCollate.pm:66> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[203] UCollate.pm:66> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[203] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-GB'
+[203] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-GB'
+[207] bbl.pm:517> INFO - Writing 'Visualization.bbl' with encoding 'UTF-8'
+[207] bbl.pm:606> INFO - Output to Visualization.bbl

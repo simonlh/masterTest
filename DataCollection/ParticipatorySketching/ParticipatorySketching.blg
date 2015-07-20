@@ -1,0 +1,15 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'ParticipatorySketching.blg'
+[52] biber-darwin:277> INFO - === Tue Jan 20, 2015, 19:04:06
+[52] Biber.pm:333> INFO - Reading 'ParticipatorySketching.bcf'
+[118] Biber.pm:635> INFO - Found 7 citekeys in bib section 0
+[146] Biber.pm:3051> INFO - Processing section 0
+[170] Biber.pm:3189> INFO - Looking for bibtex format file 'Remote.bib' for section 0
+[172] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[175] bibtex.pm:864> INFO - Found BibTeX data source 'Remote.bib'
+[263] UCollate.pm:66> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[263] UCollate.pm:66> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[263] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-GB'
+[263] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-GB'
+[280] bbl.pm:517> INFO - Writing 'ParticipatorySketching.bbl' with encoding 'UTF-8'
+[281] bbl.pm:606> INFO - Output to ParticipatorySketching.bbl

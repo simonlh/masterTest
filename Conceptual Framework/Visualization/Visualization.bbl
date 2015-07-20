@@ -1,0 +1,43 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{none}{none}
+    \entry{Friedman2008Data}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=184f76ae7255f864f68b24424cc7193a}{Friedman}{F\bibinitperiod}{Vitaly}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=184f76ae7255f864f68b24424cc7193a}{Friedman}{F\bibinitperiod}{Vitaly}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{184f76ae7255f864f68b24424cc7193a}
+      \strng{fullhash}{184f76ae7255f864f68b24424cc7193a}
+      \field{sortinit}{0}
+      \field{sortinithash}{a08a9549c5c2429f8cec5d1a581b26ca}
+      \field{labeltitle}{Data visualization and infographics}
+      \field{journaltitle}{Graphics, Monday Inspiration}
+      \field{title}{Data visualization and infographics}
+      \field{volume}{14}
+      \field{year}{2008}
+      \field{pages}{2008}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

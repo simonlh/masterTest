@@ -1,0 +1,119 @@
+\documentclass[11pt,UKenglish, a4paper]{article}
+\usepackage[utf8]{inputenc}
+%--fonts--
+\usepackage[T1]{fontenc}
+\usepackage[bitstream-charter]{mathdesign}
+
+%--packages--
+\usepackage[UKenglish]{babel}
+\usepackage{csquotes,textcomp,varioref}
+
+\usepackage{graphicx}
+%--color--
+\usepackage[dvipsnames]{xcolor}
+
+%Setter inn pdfer
+\usepackage[final]{pdfpages}
+
+%-linespace--
+\linespread{1.3}
+
+%--hyperlinks-- include 
+\usepackage[colorlinks=false, pdfborder={0 0 0}]{hyperref}
+
+%--fullpage--
+%\usepackage{fullpage}
+
+%--Uio-Front-Page--
+%removed until it works \usepackage{ifikompendiumforside}
+
+%--bibliography- -sortlocale=nb_No,
+\usepackage[backend=biber, sortcites, defernumbers, style=numeric-comp, maxnames=2, natbib=true, backref, sorting=none, url=false]{biblatex}
+%fjernet ifra style=authoryear-icomp
+
+%farger jeg skal ha med
+\definecolor{myY}{RGB}{241, 196, 15}
+\definecolor{myB}{RGB}{52, 152, 219}
+\definecolor{myG}{RGB}{46, 204, 113}
+\definecolor{myLy}{RGB}{149, 165, 166}
+\definecolor{myR}{rgb}{231, 76, 60}
+
+%--Author and Title--
+\author{Simon Lysne Hyenes}
+\title{Overview of master}
+
+
+%--Latex Optimalization--
+\tolerance = 5000
+\hbadness = \tolerance
+\pretolerance = 2000
+
+%---------start------------
+\begin{document}
+\maketitle{}
+\section{Introduction}
+This document contains a plan or overview for my master thesis. I have decided to include too much instead of leaving out anything.
+\section{Chapter 1. Introduction}
+\begin{enumerate}
+\item{Kulu}
+\item{Motivation}
+\item{Reseach questions}
+\end{enumerate}
+
+\section{Chapter 2. }
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+\section{Chapter 3. }
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+\section{Chapter 4. }
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+\section{Chapter 5. }
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+\section{Chapter 6. }
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+\section{Chapter 7. }
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+\section{Chapter 8. }
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+\section{Chapter 9. }
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+\section{Chapter 10. }
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+
+\end{document}
+
+2. Problem area
+3. Literature review
+4. Ethics - research with younger patients
+5. Design - methodology...
+6. Data
+7. Analysis and discussion
+8. Design proposal
+9. Evaluation of research process
+10. Conclusion, reflection and further work. 
